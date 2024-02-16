@@ -1,0 +1,14 @@
+C:\Asp.net\CalDisplay\CalDisplay\bin\Debug\net6.0\CalDisplay.exe
+C:\Asp.net\CalDisplay\CalDisplay\bin\Debug\net6.0\CalDisplay.deps.json
+C:\Asp.net\CalDisplay\CalDisplay\bin\Debug\net6.0\CalDisplay.runtimeconfig.json
+C:\Asp.net\CalDisplay\CalDisplay\bin\Debug\net6.0\CalDisplay.dll
+C:\Asp.net\CalDisplay\CalDisplay\bin\Debug\net6.0\CalDisplay.pdb
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.AssemblyInfoInputs.cache
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.AssemblyInfo.cs
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.csproj.CoreCompileInputs.cache
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.dll
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\refint\CalDisplay.dll
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.pdb
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\CalDisplay.genruntimeconfig.cache
+C:\Asp.net\CalDisplay\CalDisplay\obj\Debug\net6.0\ref\CalDisplay.dll
