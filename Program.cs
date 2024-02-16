@@ -9,3 +9,5 @@ Console.WriteLine("Substraction call");
 calc.Sub(985641, 785412);
 Console.WriteLine("Average Call");
 calc.Avg(8, 98);
+Console.WriteLine("Div Call");
+calc.Div(8, 98);
